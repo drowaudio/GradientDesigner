@@ -77,13 +77,11 @@ public:
     
 private:
     //==============================================================================
-    ColourGradient gradient;
-
-    //==============================================================================
     class ColourPoint;
     friend class ColourPoint;
-    OwnedArray<ColourPoint> points;
 
+    ColourGradient gradient;
+    OwnedArray<ColourPoint> points;
     Rectangle<int> previewArea, pointsArea;
     bool isResizing;
 

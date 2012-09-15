@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="SWncdq" name="GradientDesigner" projectType="guiapp" version="1.0.0"
+<JUCERPROJECT id="SWncdq" name="GradientDesigner" projectType="guiapp" version="0.1.0"
               bundleIdentifier="com.yourcompany.GradientDesigner" jucerVersion="3.0.0">
   <MAINGROUP id="hMyYeO" name="GradientDesigner">
     <GROUP id="{546AA86E-DD0A-BDC5-4A70-78E11BEC5BCF}" name="Source">
