@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{4743AD6D-A65C-DCEB-0AFC-D4CE03002E2E}") = "GradientDesigner", "GradientDesigner.vcxproj", "{1B9A4BEA-EDBE-5BD8-E8E1-2CFB1296201A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B9A4BEA-EDBE-5BD8-E8E1-2CFB1296201A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B9A4BEA-EDBE-5BD8-E8E1-2CFB1296201A}.Debug|Win32.Build.0 = Debug|Win32
+		{1B9A4BEA-EDBE-5BD8-E8E1-2CFB1296201A}.Release|Win32.ActiveCfg = Release|Win32
+		{1B9A4BEA-EDBE-5BD8-E8E1-2CFB1296201A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
